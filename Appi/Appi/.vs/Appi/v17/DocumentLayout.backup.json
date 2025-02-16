@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\controllers\\productocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:controllers\\productocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\appi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:appi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\dtos\\productoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:dtos\\productoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\dtos\\productoinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:dtos\\productoinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\data\\productodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:data\\productodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\migrations\\20250212042300_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:migrations\\20250212042300_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|c:\\users\\danya\\onedrive\\escritorio\\appi\\appi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5377739D-6002-4DD5-98A5-EA613FFBCFE3}|Appi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\DTOs\\ProductoUpdate.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductoUpdate.cs",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\DTOs\\ProductoUpdate.cs",
+              "RelativeToolTip": "DTOs\\ProductoUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:02:09.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T02:58:31.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Controllers\\ProductoControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoControllers.cs",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Controllers\\ProductoControllers.cs",
+              "RelativeToolTip": "Controllers\\ProductoControllers.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T02:54:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoInsert.cs",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\DTOs\\ProductoInsert.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductoInsert.cs",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\DTOs\\ProductoInsert.cs",
+              "RelativeToolTip": "DTOs\\ProductoInsert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:02:33.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:24:31.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appi.csproj",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Appi.csproj",
+              "RelativeDocumentMoniker": "Appi.csproj",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Appi.csproj",
+              "RelativeToolTip": "Appi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T02:33:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Data\\ProductoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ProductoDbContext.cs",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Data\\ProductoDbContext.cs",
+              "RelativeToolTip": "Data\\ProductoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:47:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:03:01.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250212042300_InitDb.cs",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Migrations\\20250212042300_InitDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250212042300_InitDb.cs",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Migrations\\20250212042300_InitDb.cs",
+              "RelativeToolTip": "Migrations\\20250212042300_InitDb.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:23:00.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T03:58:05.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
