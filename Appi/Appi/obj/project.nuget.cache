@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qZ3zxRQRRRA=",
+  "dgSpecHash": "2TAAZCHV6xE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danya\\OneDrive\\Escritorio\\Appi\\Appi\\Appi.csproj",
+  "projectFilePath": "C:\\Users\\Danya\\OneDrive\\Escritorio\\MyAppi\\Appi\\Appi\\Appi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danya\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Danya\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
